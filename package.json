@@ -19,7 +19,7 @@
     "client library"
   ],
   "dependencies": {
-    "gtoken": "^1.2.1",
+    "gtoken": "git://github.com/nhooey/node-gtoken.git#master",
     "jws": "^3.1.4",
     "lodash.isstring": "^4.0.1",
     "lodash.merge": "^4.6.0",
